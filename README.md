@@ -23,6 +23,11 @@ This application will let you track your money (deposits and/or withdrawals) wit
 
 ## Workflow
 
+- develop folder files
+- clickUp tasks
+- read README
+- Mini Project logic. Did this with Project 3 team.
+
 ## Application Demo
 
 ![](...)
@@ -33,23 +38,15 @@ To watch a video of the application being fully demo'd please use this link: [Ap
 
 <p>
   <img src="https://img.shields.io/badge/Boostrap-informational" />
-  <img src="https://img.shields.io/badge/-handlebars-yellowgreen" />
   <img src="https://img.shields.io/badge/-heroku-red" />
-  <img src="https://img.shields.io/badge/Passport-9cf" />
   <img src="https://img.shields.io/badge/Javascript-yellow" />
   <img src="https://img.shields.io/badge/HTML-orange" />
-  <img src="https://img.shields.io/badge/-css-success" />
-  <img src="https://img.shields.io/badge/-json-orange" />
-  <img src="https://img.shields.io/badge/-mysql-lightgrey" />
-  <img src="https://img.shields.io/badge/-Sequelize-success" />
-  <img src="https://img.shields.io/badge/-express-9cf" />
   <img src="https://img.shields.io/badge/-mongo-orange" />
   <img src="https://img.shields.io/badge/-node.js-green" />
-  <img src="https://img.shields.io/badge/-inquirer-red" >
-  <img src="https://img.shields.io/badge/-bcryptjs-green" />
   <img src="https://img.shields.io/badge/jQuery-blue"  />
   <img src="https://img.shields.io/badge/lint-informational" />
   <img src="https://img.shields.io/badge/-morgan-9fc" />
+  <img src="https://img.shields.io/badge/-compression-red" />
 
 </p>
 
@@ -63,8 +60,6 @@ To watch a video of the application being fully demo'd please use this link: [Ap
 
 My Study Group
 
-- [Dan](https://github.com/DanZosh)
+- [Bryson](https://github.com/Bryson-Palmer)
 - [Ian](https://github.com/Ianaac27)
-- [Macz](https://github.com/macz-norton)
 - [Thomas](https://github.com/Tskading)
-- [Zac](https://github.com/themancalledzac)
