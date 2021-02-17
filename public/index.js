@@ -16,9 +16,9 @@ fetch("/api/transaction")
 
 function populateTotal() {
   // reduce transaction amounts to a single total value
-  const total = transactions
+  let total = transactions
     .reduce((total, t) => {
-      return total + parseInt(t.value);
+      return total + parseFloat(t.value);
     }, 0)
     .toFixed(2);
 
@@ -138,6 +138,7 @@ function sendTransaction(isAdding) {
     })
     .catch((err) => {
       // fetch failed, so save in indexed db
+      console.log(transaction);
       saveRecord(transaction);
 
       // clear form
@@ -146,12 +147,12 @@ function sendTransaction(isAdding) {
     });
 }
 
-document.querySelector("#add-btn").onclick = function (event) {
+document.querySelector("#add-btn").onclick = function () {
   event.preventDefault();
   sendTransaction(true);
 };
 
-document.querySelector("#sub-btn").onclick = function (event) {
+document.querySelector("#sub-btn").onclick = function () {
   event.preventDefault();
   sendTransaction(false);
 };

@@ -62,4 +62,5 @@ My Study Group
 
 - [Bryson](https://github.com/Bryson-Palmer)
 - [Ian](https://github.com/Ianaac27)
+- [Macz](https://github.com/macz-norton)
 - [Thomas](https://github.com/Tskading)
